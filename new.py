@@ -1,2 +1,2 @@
 print('Hello! kjbglbbl')
-a = 'Happy'
+a = 'Happy!'
